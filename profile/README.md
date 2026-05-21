@@ -1,2 +1,5 @@
-# 3327A
-We are the A team for spring for 3327 robotics, This Organization is for storing the vex-pros, and vexide rust Code. (Our team only uses neovim and arch for development (We are not all femboys only tik))
+# 3327
+This repo is basically just storing all of my robotics code, including this years
+
+- 3327A, pushback 2025-26.
+- 3327C, override 2026-27.
